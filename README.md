@@ -2,9 +2,8 @@
 
 This is a repository showcasing my work in data cleaning, data analysis and data visualization. The following files are included.
 
-### Data analysis and visualizations using Microsot Excel
-### Data analysis using Sql
+### Data analysis and visualizations of Udacity nanodegree data using Microsot Excel
+### Data analysis of music data using Sql
+### Data analysis and visualization of different airlines and flight data using Tableau 
 
-### Data analysis and visualization using Tableau 
-Analyzed data pertaining to different airlines and flights using Tableau
 
